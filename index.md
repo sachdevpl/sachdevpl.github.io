@@ -7,11 +7,11 @@ App can speed up the process of using bridge scales, automatically calculating s
 *Support information* contact *truckaxlecalc@gmail.com*
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
----
+<!--
 [Link to another page](./another-page.html).
 
 ![Niemanic](./assets/images/download-button.png)
----
+
 
 There should be whitespace between paragraphs.
 
@@ -124,6 +124,7 @@ end
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
+-->
 
 ```
 The final element.
