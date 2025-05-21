@@ -4,7 +4,7 @@ layout: default
 
 ![logo](./assets/images/Feature_pic.png)
 
-App can speed up the process of using bridge scales, automatically calculating steering, drive and trailer weights. It can also give you understanding how much fuel you can get or burn to stay legal. It can also **estimate** your axles weight using information from _Bill of Lading_. There is a wind advisor in case of lighter loads, and some useful information about state weight limits.
+This app can speed up the process of using bridge scales by automatically calculating steering, drive, and trailer weights. It can also help you understand how much fuel you can add or burn to stay compliant. Additionally, it can **estimate** your axle weights using information from the _Bill of Lading_. A wind advisor is available for lighter loads, along with useful information on state weight limits.
 
 *Support information* contact *truckaxlecalc@gmail.com*
 
