@@ -1,2 +1,2 @@
 # sachdevpl.github.io
-Support page for TruckWeightcalc app
+Support page for TruckWeightcalc app.
