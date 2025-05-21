@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-![Niemanic](./assets/images/body-bg.jpg)
+![Niemanic](./assets/images/download-button.png)
 
 
 There should be whitespace between paragraphs.
