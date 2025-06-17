@@ -9,6 +9,6 @@ This app can speed up the process of using bridge scales by automatically calcul
 *Support information* contact: *truckaxlecalc@gmail.com*
 
 
-(./assets/images/Google_Play.png)
-(./assets/images/App_Store.png)
+![logo](./assets/images/Google_Play.png)
+![logo](./assets/images/App_Store.png)
 
