@@ -12,4 +12,3 @@ This app can speed up the process of using bridge scales by automatically calcul
 
 ![logo](./assets/images/Google_Play.png) ![logo](./assets/images/App_Store.png)
 {% endcomment %}
-{%Under construction%}
