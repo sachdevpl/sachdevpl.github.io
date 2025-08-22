@@ -1,4 +1,4 @@
-# Privacy Policy
+## Privacy Policy
 
 This privacy policy applies to the Truck Weight Calc app (hereby referred to as "Application") for mobile devices that was created by owner and designer of the app (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
