@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Welcome to Truck Weight Calc. These Terms and Conditions govern your use of our mobile application. By accessing or using the app, you agree to be bound by these Terms and Conditions.
+Welcome to Truck Weight Calculator. These Terms and Conditions govern your use of our mobile application. By accessing or using the app, you agree to be bound by these Terms and Conditions.
 The Service Provider (app owner) is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
 
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
