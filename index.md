@@ -9,5 +9,13 @@ This app can speed up the process of using bridge scales by automatically calcul
 *Support information* contact: *truckaxlecalc@gmail.com*
 
 
-![logo](./assets/images/Google_Play.png) ![logo](./assets/images/App_Store.png)
+<!-- ![logo](./assets/images/Google_Play.png) ![logo](./assets/images/App_Store.png) -->
+
+<a href="https://play.google.com/store/apps/details?id=com.yahoo.schlopecki.firstscale">
+  <img src="./assets/images/Google_Play.png" alt="Google Play" width="150"/>
+</a>
+&nbsp;
+<a href="https://apps.apple.com/app/6745103902">
+  <img src="./assets/images/App_Store.png" alt="App Store" width="150"/>
+</a>
 
